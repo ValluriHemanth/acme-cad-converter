@@ -1,0 +1,7 @@
+# Text file normalization
+public/* linguist-vendored
+*.go linguist-detectable
+dist/* linguist-vendored
+public/*.html linguist-vendored
+*.json linguist-detectable=false
+*.png binary
